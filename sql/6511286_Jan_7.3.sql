@@ -1,0 +1,1 @@
+SELECT first_name, last_name FROM customer WHERE first_name = 'Ann' OR first_name = 'Anne' OR first_name = 'Annie';

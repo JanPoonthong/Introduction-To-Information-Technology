@@ -1,0 +1,1 @@
+SELECT last_name FROM actor ORDER BY last_name ;

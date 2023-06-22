@@ -1,0 +1,1 @@
+SELECT DISTINCT last_name FROM actor ORDER BY last_name ;
